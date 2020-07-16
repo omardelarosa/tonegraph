@@ -1,0 +1,5 @@
+.DS_Store
+.vscode/
+tonegraph.egg-info/
+*.pyc
+__pycache__/
